@@ -1,0 +1,9 @@
+{
+  "name": "street-rally-leaderboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "STREET RALLY game page with a shared top-10 leaderboard",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
